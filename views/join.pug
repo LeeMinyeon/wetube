@@ -1,7 +1,7 @@
 extends layouts/main
 
 block content 
-    .join-container
+    .form-container
         form(action=routes.postJoin, method="post")
             input(type="name", name="name" placeholder="Fullname", required=true)
             input(type="email", name="email" placeholder="Email", required=true)
