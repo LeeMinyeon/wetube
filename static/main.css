@@ -534,7 +534,7 @@ a {
           align-items: center; }
   .video-detail__container .video__info {
     width: 100%;
-    max-width: 800px;
+    max-width: 850px;
     margin-top: 25px; }
     .video-detail__container .video__info button {
       width: 100px;
@@ -544,20 +544,20 @@ a {
     .video-detail__container .video__info .video__title,
     .video-detail__container .video__info .video__views,
     .video-detail__container .video__info .video__description {
-      margin-bottom: 15px;
-      display: block; }
+      display: block;
+      margin-bottom: 15px; }
     .video-detail__container .video__info .video__title {
       font-size: 22px;
       font-weight: 300; }
     .video-detail__container .video__info .video__views {
-      font-size: 18px; }
+      font-size: 14px; }
     .video-detail__container .video__info .video__description {
       font-size: 16px; }
   .video-detail__container .video__comments {
-    margin-top: 25px; }
+    margin-top: 25px;
+    text-align: center; }
     .video-detail__container .video__comments .video__comment-number {
-      font-size: 20px;
-      margin-left: 50px; }
+      font-size: 18px; }
     .video-detail__container .video__comments .add__comment {
       margin-top: 25px;
       width: 100%; }

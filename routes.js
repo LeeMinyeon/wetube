@@ -1,4 +1,3 @@
-import { deleteVideo } from "./controllers/videoController";
 
 //Global
 const HOME="/";

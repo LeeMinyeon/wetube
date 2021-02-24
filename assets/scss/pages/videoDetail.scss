@@ -4,7 +4,7 @@
   align-items: center;
   .video__info {
     width: 100%;
-    max-width: 800px;
+    max-width: 850px;
     margin-top: 25px;
     button {
       width: 100px;
@@ -18,15 +18,15 @@
     .video__title,
     .video__views,
     .video__description {
-      margin-bottom: 15px;
       display: block;
+      margin-bottom: 15px;
     }
     .video__title {
       font-size: 22px;
       font-weight: 300;
     }
     .video__views {
-      font-size: 18px;
+      font-size: 14px;
     }
     .video__description {
       font-size: 16px;
@@ -34,9 +34,9 @@
   }
   .video__comments {
     margin-top: 25px;
+    text-align: center;
     .video__comment-number {
-      font-size: 20px;
-      margin-left: 50px;
+      font-size: 18px;
     }
     .add__comment {
       margin-top: 25px;
